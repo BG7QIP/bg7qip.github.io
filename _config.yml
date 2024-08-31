@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "这里是Amateur Radio Lover BG7QIP"
 keyword: ""
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -56,7 +56,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: BG7QIP
 
 # Netease settings
 netease_comment: false
@@ -75,7 +75,7 @@ sidebar-about-description: ""
 sidebar-avatar:  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
-featured-tags: true # whether or not using Feature-Tags
+featured-tags: false # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
@@ -85,8 +85,4 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-# Friends
-friends:
-  [
-    
-  ]
+
